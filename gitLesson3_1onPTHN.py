@@ -7,3 +7,7 @@ def myFun(a,b):
 
         print("очень рад тебя видеть")
 
+FirstList = [1,2,3]
+
+myFun(a,b)
+
